@@ -1,4 +1,4 @@
-# josefgmuer.github.io
+# Data Analytics Portfolio
 
 **Technical Skills: R, Python, PowerBI, Excel, Tableau**
 
