@@ -3,35 +3,22 @@
 
 @import "jekyll-theme-minimal";
 
-/* Style the contact links */
-header > p:first-of-type {
-  line-height: 2.5;
+/* Hide "This project is maintained by" */
+header > p.view:first-of-type {
+  display: none;
 }
 
+/* Style the contact links */
 header > p:first-of-type a {
   display: block;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
-/* Add space before the "maintained by" section */
-header > p:first-of-type a[href*="linkedin"] {
-  margin-bottom: 25px;
+header > p:first-of-type {
+  margin-bottom: 20px;
 }
 
-/* Fix overlapping text at bottom */
-.view {
-  display: block;
-  margin-top: 20px;
-  clear: both;
-}
-
+/* Fix bottom spacing */
 .credits {
-  display: block;
   margin-top: 15px;
-  clear: both;
-}
-
-.credits small {
-  display: block;
-  line-height: 1.6;
 }
