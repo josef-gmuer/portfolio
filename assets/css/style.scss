@@ -3,29 +3,31 @@
 
 @import "jekyll-theme-minimal";
 
-/* Force description links to be block-level with spacing */
+/* Style the contact links */
+header > p:first-of-type {
+  line-height: 2.5;
+}
+
 header > p:first-of-type a {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
-/* Add space between description and the "maintained by" section */
-header > p:first-of-type {
-  margin-bottom: 30px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+/* Add space before the "maintained by" section */
+header > p:first-of-type a[href*="linkedin"] {
+  margin-bottom: 25px;
 }
 
-/* Fix the overlapping text at bottom */
+/* Fix overlapping text at bottom */
 .view {
   display: block;
-  margin-top: 25px;
+  margin-top: 20px;
   clear: both;
 }
 
 .credits {
   display: block;
-  margin-top: 20px;
+  margin-top: 15px;
   clear: both;
 }
 
