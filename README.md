@@ -15,7 +15,7 @@ Bachelors of Economics and Management, University of Geneva, 2024
 
 This Excel dashboard analyzes carbon pricing mechanisms across 73 jurisdictions worldwide. Using World Bank State and Trends of Carbon Pricing (2024) and Climate Watch emissions data, I examined pricing trends from 2015-2024, compared carbon tax versus emissions trading systems, and explored the relationship between carbon prices and emissions. Built with Excel pivot tables, charts, and formulas.
 
-![Carbon Pricing Dashboard](/exceldashboard.png)
+![Carbon Pricing Dashboard](/carbondashboard.png)
 
 ## European Energy Transition Dashboard
 
