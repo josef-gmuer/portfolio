@@ -10,9 +10,12 @@ Bachelors of Economics and Management, University of Geneva, 2024
 
 # Projects
 
-## European Energy Transition Dashboard
+## European Energy Dashboard
 
-This Power BI dashboard tracks Europe's shift from fossil fuels to renewable energy across major EU countries. Using ENTSO-E electricity data, I analyzed generation mix trends from 2015-2024, mapped renewable energy share by country, and visualized cross-border electricity flows. The dashboard uses interactive slicers and dynamic charts to explore how solar and wind capacity has grown while coal generation has declined across the continent.
+This Power BI dashboard provides an overview of Europe’s electricity generation and cross-border power flows. Using ENTSO-E data, it visualizes total generation by energy source (including nuclear, fossil gas, coal, hydro, wind, solar, and biomass), highlights nuclear power generation since 2023, and maps electricity trade flows between countries from 2019 onward. Interactive visuals allow users to compare energy mixes, analyze generation volumes in GWh, and explore how interconnected European electricity markets distribute power across borders.
+
+![European Energy Dashboard](/PowerBIpic.png)
+
 
 ## Swiss Economic Policy Analysis
 
