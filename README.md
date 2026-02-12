@@ -16,6 +16,8 @@ This Power BI dashboard provides an overview of Europe’s electricity generatio
 
 ![European Energy Dashboard](/PowerBIpic.png)
 
+**[📊 Download PowerBI_project.pbix](PowerBI_project.pbix)**
+
 
 ## Swiss Economic Policy Analysis
 
