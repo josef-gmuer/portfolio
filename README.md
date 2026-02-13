@@ -21,7 +21,10 @@ This Power BI dashboard provides an overview of Europe’s electricity generatio
 
 ## Swiss Economic Policy Analysis
 
-This Python project analyzes Swiss economic indicators using SNB and Federal Statistical Office data. I built interactive Plotly visualizations examining GDP, inflation, unemployment, and exchange rates (2000-2024), exploring monetary policy impacts. Demonstrates full data pipeline: API collection, cleaning, analysis, and visualization in Jupyter notebooks.
+This Python project analyzes Swiss economic indicators using SNB and Federal Statistical Office data. I built interactive Plotly visualizations examining GDP, inflation, unemployment, and exchange rates (2000-2024), exploring monetary policy impacts. Demonstrates full data pipeline: API collection, cleaning, analysis, and visualization in Colab.
+
+![Swiss Macro Overlook](/swiss_macro_dashboard_REAL.png)
+
 
 ## Global Carbon Pricing & Emissions Tracker
 
