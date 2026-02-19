@@ -12,7 +12,7 @@ Bachelors of Economics and Management, University of Geneva, 2024
 
 ## European Energy Dashboard
 
-Europe's electricity system is increasingly interconnected, yet the trade-offs between energy security, decarbonization, and cross-border dependency remain poorly understood. Using ENTSO-E generation and flow data, I built an interactive Power BI dashboard to map these dynamics across the continent. The analysis reveals stark divergences in national energy mixes and exposes how geopolitical shocks reshape trade flows, most notably, Ukraine's rapid pivot away from Russian electricity imports after 2022. For policymakers and energy analysts, the findings underscore the urgency of expanding grid interconnection capacity and reducing reliance on single energy corridors.
+Europe's electricity system is increasingly interconnected, yet the trade-offs between energy security, decarbonization, and cross-border dependency remain poorly understood. Using ENTSO-E generation and flow data, I created an interactive Power BI dashboard to map these dynamics across the continent. The dashboard reveals stark divergences in national energy mixes and exposes how geopolitical shocks reshape trade flows, most notably, Ukraine's rapid pivot away from Russian electricity imports after 2022. For policymakers and energy analysts, the findings underscore the urgency of expanding grid interconnection capacity and reducing reliance on single energy corridors.
 
 ![European Energy Dashboard](/dashboardpic.png)
 
@@ -30,7 +30,7 @@ View the Colab file here: [Swiss Macro](https://colab.research.google.com/drive/
 
 ## Global Carbon Pricing & Emissions Tracker
 
-Carbon pricing is widely seen as the most efficient tool for reducing emissions — but with 73 jurisdictions now running carbon taxes or trading systems, how effective are they in practice? Drawing on World Bank carbon pricing data and Climate Watch emissions records from 2015–2024, I built an Excel dashboard to compare pricing levels, policy types, and emissions trajectories across regions. The results are underwhelming: average carbon prices remain far below levels economists consider effective, and there is limited evidence of a strong price-emissions relationship at current levels. The dashboard points to Europe as a relative success story, while highlighting the gap that remains in Asia-Pacific and Latin America, regions where scaling up carbon pricing should be the priority.
+Carbon pricing is widely seen as the most efficient tool for reducing emissions, but with 63 jurisdictions now running carbon taxes or trading systems, how effective are they in practice? Drawing on World Bank carbon pricing data and Climate Watch emissions records from 2015–2024, I built an Excel dashboard to compare pricing levels, policy types, and emissions trajectories across regions. The results are underwhelming: average carbon prices remain far below levels economists consider effective, and there is limited evidence of a strong price-emissions relationship at current levels. The dashboard points to Europe as a relative success story, while highlighting the gap that remains in Asia-Pacific and Latin America, regions where scaling up carbon pricing should be the priority.
 
 ![Carbon Pricing Dashboard](/excelupdate.png)
 
